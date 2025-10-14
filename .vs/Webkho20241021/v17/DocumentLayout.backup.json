@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0945632-52C9-4174-9062-AD3747ECAE56}|Webkho20241021\\Webkho20241021.csproj|h:\\stuproject\\webkho20241021\\webkho20241021\\webkho20241021\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0945632-52C9-4174-9062-AD3747ECAE56}|Webkho20241021\\Webkho20241021.csproj|solutionrelative:webkho20241021\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0945632-52C9-4174-9062-AD3747ECAE56}|Webkho20241021\\Webkho20241021.csproj|h:\\stuproject\\webkho20241021\\webkho20241021\\webkho20241021\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0945632-52C9-4174-9062-AD3747ECAE56}|Webkho20241021\\Webkho20241021.csproj|solutionrelative:webkho20241021\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Webkho20241021\\appsettings.json",
+              "RelativeDocumentMoniker": "Webkho20241021\\appsettings.json",
+              "ToolTip": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Webkho20241021\\appsettings.json*",
+              "RelativeToolTip": "Webkho20241021\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T02:14:13.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Webkho20241021\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Webkho20241021\\appsettings.Development.json",
+              "ToolTip": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Webkho20241021\\appsettings.Development.json",
+              "RelativeToolTip": "Webkho20241021\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T01:44:43.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

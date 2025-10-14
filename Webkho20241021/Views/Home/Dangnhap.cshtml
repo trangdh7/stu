@@ -1,0 +1,33 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Đăng nhập</title>
+    <link href="/css/Dangnhap.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="login-container">
+        <form class="login-form" asp-action="Login" method="post">
+            <h2>Login</h2>
+            <div class="input-group">
+                <input type="text" name="Username" placeholder="Username" required />
+            </div>
+            <div class="input-group">
+                <input type="password" name="Password" placeholder="Password" required />
+            </div>
+            <button type="submit">Sign In</button>
+            <div class="links">
+                <a href="/Home/Create">Don't have an account? Sign Up</a>
+            </div>
+            @if (ViewData["ErrorMessage"] != null)
+            {
+                <p class="error">@ViewData["ErrorMessage"]</p>
+            }
+        </form>
+    </div>
+</body>
+</html>

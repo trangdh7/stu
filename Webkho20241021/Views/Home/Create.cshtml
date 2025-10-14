@@ -1,0 +1,63 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create Account</title>
+    <link href="/css/createuser.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="login-container">
+        <form class="login-form" asp-action="CreateUser" method="post">
+            <h2>Create Account</h2>
+            <div class="input-group">
+                <input type="text" name="Name" placeholder="Name" required />
+            </div>
+            <div class="input-group">
+                <input type="text" name="MaNV" placeholder="Mã NV" required />
+            </div>
+            <div class="input-group">
+                <select name="Chucvu" required>
+                    <option value="" disabled selected>Chọn chức vụ</option>
+                    <option value="Giám đốc">Giám đốc</option>
+                    <option value="Nhân viên">Nhân viên</option>
+                    <option value="Trưởng BP">Trưởng bộ phận</option>
+                    <option value="Admin">ADMIN</option>
+                </select>
+            </div>
+            <div class="input-group">
+                <select name="Bophan" required>
+                    <option value="" disabled selected>Chọn chức vụ</option>
+                    <option value="BP kỹ thuật">Bộ phận kỹ thuật</option>        
+                    <option value="BP kho">Bộ phận kho</option>
+                    <option value="BP mua hàng">Bộ phận mua hàng</option>
+                    <option value="BP kế toán">Bộ phận kế toán</option>
+                    <option value="Admin">ADMIN</option>
+                </select>
+            </div>
+            <div class="input-group">
+                <input type="text" name="Username" placeholder="Username" required />
+            </div>
+            <div class="input-group">
+                <input type="email" name="Email" placeholder="Email" required />
+            </div>
+            <div class="input-group">
+                <input type="text" name="PhoneNumber" placeholder="Phone Number" required />
+            </div>
+            <div class="input-group">
+                <input type="password" name="Password" placeholder="Password" required />
+            </div>
+            <div class="input-group">
+                <input type="password" name="ConfirmPassword" placeholder="Confirm Password" required />
+            </div>
+            <button type="submit">Sign Up</button>
+            <div class="links">
+                <a href="/Home/Dangnhap">Already have an account? Sign In</a>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
