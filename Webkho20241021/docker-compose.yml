@@ -1,0 +1,23 @@
+version: '3.9'
+
+services:
+  web:
+    image: webkho20241021:latest
+    container_name: webkho
+    ports:
+      - "8080:80"
+    depends_on:
+      - db
+    environment:
+      - ConnectionStrings__DefaultConnection=server=db;port=3306;database=webkho;user=root;password=123456
+    restart: always
+
+  db:
+    image: mysql:8.0
+    container_name: mysql_db
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456
+      MYSQL_DATABASE: webkho
+    volumes:
+      - ./mysql_data:/var/lib/mysql
+    restart: always
