@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OE/bP2XGNeA=",
+  "dgSpecHash": "cuFiF0smiXw=",
   "success": true,
-  "projectFilePath": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Webkho20241021\\Webkho20241021.csproj",
+  "projectFilePath": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Webkho20241021.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

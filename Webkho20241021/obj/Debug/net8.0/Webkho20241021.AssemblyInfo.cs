@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Webkho20241021")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+732c911e13cb522dc8b5255113e9dbe9032fead0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Webkho20241021")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Webkho20241021")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

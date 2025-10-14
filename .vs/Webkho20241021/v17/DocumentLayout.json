@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\",
+  "WorkspaceRootPath": "H:\\stuproject\\Webkho20241021\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0945632-52C9-4174-9062-AD3747ECAE56}|Webkho20241021\\Webkho20241021.csproj|h:\\stuproject\\webkho20241021\\webkho20241021\\webkho20241021\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A0945632-52C9-4174-9062-AD3747ECAE56}|Webkho20241021\\Webkho20241021.csproj|h:\\stuproject\\webkho20241021\\webkho20241021\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A0945632-52C9-4174-9062-AD3747ECAE56}|Webkho20241021\\Webkho20241021.csproj|solutionrelative:webkho20241021\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0945632-52C9-4174-9062-AD3747ECAE56}|Webkho20241021\\Webkho20241021.csproj|h:\\stuproject\\webkho20241021\\webkho20241021\\webkho20241021\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A0945632-52C9-4174-9062-AD3747ECAE56}|Webkho20241021\\Webkho20241021.csproj|h:\\stuproject\\webkho20241021\\webkho20241021\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A0945632-52C9-4174-9062-AD3747ECAE56}|Webkho20241021\\Webkho20241021.csproj|solutionrelative:webkho20241021\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0945632-52C9-4174-9062-AD3747ECAE56}|Webkho20241021\\Webkho20241021.csproj|h:\\stuproject\\webkho20241021\\webkho20241021\\webkho20241021\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A0945632-52C9-4174-9062-AD3747ECAE56}|Webkho20241021\\Webkho20241021.csproj|h:\\stuproject\\webkho20241021\\webkho20241021\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A0945632-52C9-4174-9062-AD3747ECAE56}|Webkho20241021\\Webkho20241021.csproj|solutionrelative:webkho20241021\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Webkho20241021\\appsettings.json",
+              "DocumentMoniker": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\appsettings.json",
               "RelativeDocumentMoniker": "Webkho20241021\\appsettings.json",
-              "ToolTip": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Webkho20241021\\appsettings.json",
+              "ToolTip": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\appsettings.json",
               "RelativeToolTip": "Webkho20241021\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "docker-compose.yml",
-              "DocumentMoniker": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Webkho20241021\\docker-compose.yml",
+              "DocumentMoniker": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\docker-compose.yml",
               "RelativeDocumentMoniker": "Webkho20241021\\docker-compose.yml",
-              "ToolTip": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Webkho20241021\\docker-compose.yml",
+              "ToolTip": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\docker-compose.yml",
               "RelativeToolTip": "Webkho20241021\\docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Dockerfile",
-              "DocumentMoniker": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Webkho20241021\\Dockerfile",
+              "DocumentMoniker": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Dockerfile",
               "RelativeDocumentMoniker": "Webkho20241021\\Dockerfile",
-              "ToolTip": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Webkho20241021\\Dockerfile",
+              "ToolTip": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Dockerfile",
               "RelativeToolTip": "Webkho20241021\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",

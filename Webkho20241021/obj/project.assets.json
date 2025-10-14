@@ -7780,11 +7780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Webkho20241021\\Webkho20241021.csproj",
+      "projectUniqueName": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Webkho20241021.csproj",
       "projectName": "Webkho20241021",
-      "projectPath": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Webkho20241021\\Webkho20241021.csproj",
+      "projectPath": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Webkho20241021.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\Webkho20241021\\obj\\",
+      "outputPath": "H:\\stuproject\\Webkho20241021\\Webkho20241021\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
