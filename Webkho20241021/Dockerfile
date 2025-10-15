@@ -4,14 +4,12 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Copy file csproj và restore dependencies
+# Copy file .csproj
 COPY *.csproj ./
 RUN dotnet restore
 
 # Copy toàn bộ source code
 COPY . .
-
-# Build và publish project ra thư mục /app/publish
 RUN dotnet publish -c Release -o /app/publish
 
 # ===============================
