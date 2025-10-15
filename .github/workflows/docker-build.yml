@@ -23,7 +23,7 @@ jobs:
       - name: Build and Push Docker Image
         uses: docker/build-push-action@v6
         with:
-          context: ./Webkho20241021/Webkho20241021
-          file: ./Webkho20241021/Webkho20241021/Dockerfile
+          context: .
+          file: ./Webkho20241021/Dockerfile
           push: true
           tags: ryanhierro/webkho20241021:latest
