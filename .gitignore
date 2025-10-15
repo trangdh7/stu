@@ -1,0 +1,15 @@
+# .NET ignore rules
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.dbmdl
+*.log
+*.vscode/
+*.env
+launchSettings.json
+appsettings.Development.json
+node_modules/
+Dockerfile
+/app/publish/
